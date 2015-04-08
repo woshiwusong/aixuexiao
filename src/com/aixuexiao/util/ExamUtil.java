@@ -14,7 +14,7 @@ import com.aixuexiao.model.ExamMark;
 public class ExamUtil {
 
 	/**
-	 * 为考试成绩排序 并计算平均分/最高分/最低发
+	 * 为考试成绩排序 并计算平均分/最高分/最低分
 	 * @param exam 考试对象
 	 * @return
 	 */
