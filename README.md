@@ -1,6 +1,6 @@
 aixuexiao
 =========
-
+吴松
 一个基于SAE Java平台的微信平台公众帐号应用例子。
 
 详情访问：http://aixuexiao.sinaapp.com
